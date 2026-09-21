@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Regi Al Habib</h1>
-<h3 align="center">A passionate Software Developer from Indonesia</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Software+Developer;Laravel+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <a href="https://regialhabib-portofolio.netlify.app" target="_blank">
@@ -32,11 +33,3 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> &nbsp;
 </p>
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=regialhabib&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Regi's GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=regialhabib&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
