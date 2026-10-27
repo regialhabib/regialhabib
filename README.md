@@ -1,30 +1,39 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Software+Developer;Laravel+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</div>
+<h1 align="center">Halo, saya Regi Al Habib 👋</h1>
 
 <p align="center">
-  <a href="https://regialhabib-portofolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/regi-al-habib-114099424/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <b>Fullstack Web Developer · Laravel &amp; PHP</b><br />
+  Saya merancang databasenya dulu, baru membangun sistemnya.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=regialhabib&label=Profile%20views&color=0e75b6&style=flat" alt="regialhabib" />
+  <a href="https://regialhabib-portofolio.netlify.app"><img src="https://img.shields.io/badge/Portofolio-d4f53c?style=for-the-badge" alt="Portofolio" /></a>
+  <a href="https://www.linkedin.com/in/regi-al-habib-114099424"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:regialhabib622@gmail.com"><img src="https://img.shields.io/badge/Email-0f1216?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently building scalable web applications.
-- 🌱 I’m constantly learning and focusing on **Laravel, PHP, and Modern Web Tech**.
-- 💬 Ask me about **Web Development, Backend Engineering, and Problem Solving**.
-- 📫 How to reach me: You can contact me through my [LinkedIn](https://www.linkedin.com/in/regi-al-habib-114099424/) or [Portfolio](https://regialhabib-portofolio.netlify.app).
-- ⚡ Fun fact: I love fixing complex bugs and writing clean, maintainable code!
+### Tentang saya
 
-### 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,tailwind,git,linux&theme=dark" alt="Tech Stack" />
+Web developer di Jambi dengan 1+ tahun pengalaman freelance. Saya sudah membawa 4+ sistem informasi berbasis web dari analisis kebutuhan, desain database dan ERD, pengembangan fitur, sampai testing dan serah terima. Sehari-hari saya bekerja dengan Laravel, PHP, dan MySQL.
+
+### Proyek pilihan
+
+| Proyek | Ringkasan | Stack |
+| --- | --- | --- |
+| [Sistem Pengajuan Cuti](https://github.com/regialhabib/pengajuan-cuti) | Persetujuan cuti berjenjang otomatis sesuai hierarki departemen | Laravel · MySQL |
+| [Website Profil &amp; CMS Sanggar Seni](https://github.com/regialhabib/sanggar-seni-majelis-adat) | Profil sanggar dengan CMS untuk kegiatan dan galeri | Laravel · Tailwind CSS |
+| [Sistem Pelayanan Puskesmas](https://github.com/regialhabib/pelayanan-puskesmas) | Data pasien, poli, tindakan, obat, dan resep dalam satu alur | Laravel · Bootstrap |
+| [Pemetaan Pelanggan PLN](https://github.com/regialhabib/PemetaanPelangganPLN) | Peta pelanggan dan monitoring kunjungan petugas | Laravel · OpenLayers · OSRM |
+
+Studi kasus lengkapnya ada di [portofolio saya](https://regialhabib-portofolio.netlify.app).
+
+### Teknologi
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,react,tailwind,bootstrap,nodejs,git,github&theme=dark" alt="Laravel, PHP, MySQL, JavaScript, React, Tailwind CSS, Bootstrap, Node.js, Git, GitHub" />
 </p>
+
+### Hubungi saya
+
+Terbuka untuk peluang kerja maupun proyek freelance. Kirim email ke **regialhabib622@gmail.com** atau sapa saya di [LinkedIn](https://www.linkedin.com/in/regi-al-habib-114099424).
