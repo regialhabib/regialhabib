@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="340" viewBox="0 0 840 340" role="img" aria-label="Kontribusi setahun terakhir">
+  <style>text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }</style>
+  <rect x="9" y="9" width="827" height="327" rx="20" fill="#05040A"/>
+  <rect x="2" y="2" width="827" height="327" rx="20" fill="#1D1A2E" stroke="#4A4470" stroke-width="2.5"/>
+  <text x="30" y="48" font-size="21" font-weight="800" fill="#F3F1FF">Kontribusi setahun terakhir</text>
+  <text x="30" y="72" font-size="13" fill="#A9A2C6">2 Nov 2025 – 6 Nov 2026 · diperbarui otomatis setiap hari</text>
+  <g transform="rotate(-1.5 109 146)">
+    <rect x="34" y="102" width="158" height="96" rx="14" fill="#05040A"/>
+    <rect x="30" y="98" width="158" height="96" rx="14" fill="#FFD05A" stroke="#4A4470" stroke-width="2.5"/>
+    <text x="46" y="148" font-size="32" font-weight="800" fill="#1A1530">256</text>
+    <text x="46" y="175" font-size="12.5" font-weight="700" fill="#1A1530">kontribusi</text>
+  </g>
+  <g transform="rotate(1.5 281 146)">
+    <rect x="206" y="102" width="158" height="96" rx="14" fill="#05040A"/>
+    <rect x="202" y="98" width="158" height="96" rx="14" fill="#3EDCAA" stroke="#4A4470" stroke-width="2.5"/>
+    <text x="218" y="148" font-size="32" font-weight="800" fill="#1A1530">42</text>
+    <text x="218" y="175" font-size="12.5" font-weight="700" fill="#1A1530">hari aktif</text>
+  </g>
+  <g transform="rotate(-1.5 109 256)">
+    <rect x="34" y="212" width="158" height="96" rx="14" fill="#05040A"/>
+    <rect x="30" y="208" width="158" height="96" rx="14" fill="#FF6F98" stroke="#4A4470" stroke-width="2.5"/>
+    <text x="46" y="258" font-size="32" font-weight="800" fill="#1A1530">7 hari</text>
+    <text x="46" y="285" font-size="12.5" font-weight="700" fill="#1A1530">streak terpanjang</text>
+  </g>
+  <g transform="rotate(1.5 281 256)">
+    <rect x="206" y="212" width="158" height="96" rx="14" fill="#05040A"/>
+    <rect x="202" y="208" width="158" height="96" rx="14" fill="#7189FF" stroke="#4A4470" stroke-width="2.5"/>
+    <text x="218" y="258" font-size="32" font-weight="800" fill="#FFFFFF">55</text>
+    <text x="218" y="285" font-size="12.5" font-weight="700" fill="#FFFFFF">rekor sehari · 26 Okt</text>
+  </g>
+  <text x="392" y="108" font-size="13" font-weight="700" fill="#A9A2C6">per bulan</text>
+  <line x1="392" y1="282" x2="806" y2="282" stroke="#4A4470" stroke-width="2" stroke-linecap="round"/>
+    <rect x="397" y="278" width="21.846153846153847" height="4" rx="5" fill="#131120" stroke="#4A4470" stroke-width="2"/>
+    
+    <text x="407.9230769230769" y="302" font-size="11.5" fill="#A9A2C6" text-anchor="middle">Nov</text>
+    <rect x="428.84615384615387" y="278" width="21.846153846153847" height="4" rx="5" fill="#3EDCAA" stroke="#4A4470" stroke-width="2"/>
+    <text x="439.7692307692308" y="270" font-size="11.5" font-weight="700" fill="#F3F1FF" text-anchor="middle">5</text>
+    <text x="439.7692307692308" y="302" font-size="11.5" fill="#A9A2C6" text-anchor="middle">Des</text>
+    <rect x="460.6923076923077" y="278" width="21.846153846153847" height="4" rx="5" fill="#FF6F98" stroke="#4A4470" stroke-width="2"/>
+    <text x="471.6153846153846" y="270" font-size="11.5" font-weight="700" fill="#F3F1FF" text-anchor="middle">2</text>
+    <text x="471.6153846153846" y="302" font-size="11.5" fill="#A9A2C6" text-anchor="middle">Jan</text>
+    <rect x="492.53846153846155" y="278" width="21.846153846153847" height="4" rx="5" fill="#131120" stroke="#4A4470" stroke-width="2"/>
+    
+    <text x="503.46153846153845" y="302" font-size="11.5" fill="#A9A2C6" text-anchor="middle">Feb</text>
+    <rect x="524.3846153846154" y="278" width="21.846153846153847" height="4" rx="5" fill="#131120" stroke="#4A4470" stroke-width="2"/>
+    
+    <text x="535.3076923076923" y="302" font-size="11.5" fill="#A9A2C6" text-anchor="middle">Mar</text>
+    <rect x="556.2307692307693" y="278" width="21.846153846153847" height="4" rx="5" fill="#131120" stroke="#4A4470" stroke-width="2"/>
+    
+    <text x="567.1538461538462" y="302" font-size="11.5" fill="#A9A2C6" text-anchor="middle">Apr</text>
+    <rect x="588.0769230769231" y="278" width="21.846153846153847" height="4" rx="5" fill="#131120" stroke="#4A4470" stroke-width="2"/>
+    
+    <text x="599" y="302" font-size="11.5" fill="#A9A2C6" text-anchor="middle">Mei</text>
+    <rect x="619.9230769230769" y="278" width="21.846153846153847" height="4" rx="5" fill="#131120" stroke="#4A4470" stroke-width="2"/>
+    
+    <text x="630.8461538461538" y="302" font-size="11.5" fill="#A9A2C6" text-anchor="middle">Jun</text>
+    <rect x="651.7692307692307" y="278" width="21.846153846153847" height="4" rx="5" fill="#131120" stroke="#4A4470" stroke-width="2"/>
+    
+    <text x="662.6923076923076" y="302" font-size="11.5" fill="#A9A2C6" text-anchor="middle">Jul</text>
+    <rect x="683.6153846153846" y="269" width="21.846153846153847" height="13" rx="5" fill="#3EDCAA" stroke="#4A4470" stroke-width="2"/>
+    <text x="694.5384615384615" y="261" font-size="11.5" font-weight="700" fill="#F3F1FF" text-anchor="middle">16</text>
+    <text x="694.5384615384615" y="302" font-size="11.5" fill="#A9A2C6" text-anchor="middle">Agu</text>
+    <rect x="715.4615384615385" y="254" width="21.846153846153847" height="28" rx="5" fill="#FF6F98" stroke="#4A4470" stroke-width="2"/>
+    <text x="726.3846153846154" y="246" font-size="11.5" font-weight="700" fill="#F3F1FF" text-anchor="middle">36</text>
+    <text x="726.3846153846154" y="302" font-size="11.5" fill="#A9A2C6" text-anchor="middle">Sep</text>
+    <rect x="747.3076923076924" y="142" width="21.846153846153847" height="140" rx="5" fill="#7189FF" stroke="#4A4470" stroke-width="2"/>
+    <text x="758.2307692307693" y="134" font-size="11.5" font-weight="700" fill="#F3F1FF" text-anchor="middle">179</text>
+    <text x="758.2307692307693" y="302" font-size="11.5" fill="#A9A2C6" text-anchor="middle">Okt</text>
+    <rect x="779.1538461538462" y="268" width="21.846153846153847" height="14" rx="5" fill="#FFD05A" stroke="#4A4470" stroke-width="2"/>
+    <text x="790.0769230769231" y="260" font-size="11.5" font-weight="700" fill="#F3F1FF" text-anchor="middle">18</text>
+    <text x="790.0769230769231" y="302" font-size="11.5" fill="#A9A2C6" text-anchor="middle">Nov</text>
+</svg>

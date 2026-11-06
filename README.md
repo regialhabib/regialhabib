@@ -1,39 +1,42 @@
 <h1 align="center">Halo, saya Regi Al Habib 👋</h1>
 
 <p align="center">
-  <b>Fullstack Web Developer · Laravel &amp; PHP</b><br />
-  Saya merancang databasenya dulu, baru membangun sistemnya.
+  <b>Fullstack Developer · Laravel &amp; React</b><br />
+  Senang mengubah ide jadi aplikasi web yang enak dilihat dan gampang dipakai.
 </p>
 
 <p align="center">
-  <a href="https://regialhabib-portofolio.netlify.app"><img src="https://img.shields.io/badge/Portofolio-d4f53c?style=for-the-badge" alt="Portofolio" /></a>
+  <a href="https://regialhabib-portofolio.netlify.app"><img src="https://img.shields.io/badge/Portofolio-FFC83D?style=for-the-badge" alt="Portofolio" /></a>
   <a href="https://www.linkedin.com/in/regi-al-habib-114099424"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:regialhabib622@gmail.com"><img src="https://img.shields.io/badge/Email-0f1216?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:regialhabib622@gmail.com"><img src="https://img.shields.io/badge/Email-1A1530?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
 ### Tentang saya
 
-Web developer di Jambi dengan 1+ tahun pengalaman freelance. Saya sudah membawa 4+ sistem informasi berbasis web dari analisis kebutuhan, desain database dan ERD, pengembangan fitur, sampai testing dan serah terima. Sehari-hari saya bekerja dengan Laravel, PHP, dan MySQL.
+Lulusan S1 Sistem Informasi dari UIN Sultan Thaha Saifuddin Jambi dengan 1+ tahun pengalaman freelance. Sudah menyelesaikan 7+ project untuk 6+ klien, kebanyakan mengubah proses yang masih manual menjadi sistem yang rapi, mulai dari pengajuan dan persetujuan sampai pelaporan.
 
-### Proyek pilihan
+Project dan screenshot-nya bisa dilihat di [portofolio saya](https://regialhabib-portofolio.netlify.app).
 
-| Proyek | Ringkasan | Stack |
-| --- | --- | --- |
-| [Sistem Pengajuan Cuti](https://github.com/regialhabib/pengajuan-cuti) | Persetujuan cuti berjenjang otomatis sesuai hierarki departemen | Laravel · MySQL |
-| [Website Profil &amp; CMS Sanggar Seni](https://github.com/regialhabib/sanggar-seni-majelis-adat) | Profil sanggar dengan CMS untuk kegiatan dan galeri | Laravel · Tailwind CSS |
-| [Sistem Pelayanan Puskesmas](https://github.com/regialhabib/pelayanan-puskesmas) | Data pasien, poli, tindakan, obat, dan resep dalam satu alur | Laravel · Bootstrap |
-| [Pemetaan Pelanggan PLN](https://github.com/regialhabib/PemetaanPelangganPLN) | Peta pelanggan dan monitoring kunjungan petugas | Laravel · OpenLayers · OSRM |
+### Aktivitas GitHub
 
-Studi kasus lengkapnya ada di [portofolio saya](https://regialhabib-portofolio.netlify.app).
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats/kontribusi-dark.svg" />
+  <img src="assets/stats/kontribusi-light.svg" alt="Statistik kontribusi GitHub setahun terakhir" width="100%" />
+</picture>
 
-### Teknologi
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats/bahasa-dark.svg" />
+  <img src="assets/stats/bahasa-light.svg" alt="Bahasa pemrograman yang paling sering saya pakai" width="100%" />
+</picture>
+
+### Stack yang sering saya pakai
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,react,tailwind,bootstrap,nodejs,git,github&theme=dark" alt="Laravel, PHP, MySQL, JavaScript, React, Tailwind CSS, Bootstrap, Node.js, Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,react,ts,js,tailwind,bootstrap,alpinejs,vite,git,github&theme=dark" alt="Laravel, PHP, MySQL, React, TypeScript, JavaScript, Tailwind CSS, Bootstrap, Alpine.js, Vite, Git, GitHub" />
 </p>
 
 ### Hubungi saya
 
-Terbuka untuk peluang kerja maupun proyek freelance. Kirim email ke **regialhabib622@gmail.com** atau sapa saya di [LinkedIn](https://www.linkedin.com/in/regi-al-habib-114099424).
+Terbuka untuk peluang kerja maupun project freelance. Kirim email ke **regialhabib622@gmail.com** atau sapa saya di [LinkedIn](https://www.linkedin.com/in/regi-al-habib-114099424).

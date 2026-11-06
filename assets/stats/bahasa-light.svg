@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="216" viewBox="0 0 840 216" role="img" aria-label="Bahasa yang paling sering saya pakai">
+  <style>text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }</style>
+  <rect x="9" y="9" width="827" height="203" rx="20" fill="#1A1530"/>
+  <rect x="2" y="2" width="827" height="203" rx="20" fill="#FFFFFF" stroke="#1A1530" stroke-width="2.5"/>
+  <text x="30" y="48" font-size="21" font-weight="800" fill="#1A1530">Bahasa yang paling sering saya pakai</text>
+  <text x="30" y="72" font-size="13" fill="#5F5878">rata-rata dari 14 repo publik, setiap repo berbobot sama</text>
+  <clipPath id="bar"><rect x="30" y="96" width="769" height="30" rx="15"/></clipPath>
+  <g clip-path="url(#bar)">
+    <rect x="30.00" y="96" width="318.96" height="30" fill="#4D6BFE"/>
+
+    <rect x="348.96" y="96" width="214.54" height="30" fill="#FF5C8A"/>
+    <line x1="348.96" y1="96" x2="348.96" y2="126" stroke="#1A1530" stroke-width="2"/>
+    <rect x="563.50" y="96" width="157.25" height="30" fill="#FFC83D"/>
+    <line x1="563.50" y1="96" x2="563.50" y2="126" stroke="#1A1530" stroke-width="2"/>
+    <rect x="720.75" y="96" width="47.90" height="30" fill="#2ACF9C"/>
+    <line x1="720.75" y1="96" x2="720.75" y2="126" stroke="#1A1530" stroke-width="2"/>
+    <rect x="768.65" y="96" width="27.17" height="30" fill="#B79CFF"/>
+    <line x1="768.65" y1="96" x2="768.65" y2="126" stroke="#1A1530" stroke-width="2"/>
+  </g>
+  <rect x="30" y="96" width="769" height="30" rx="15" fill="none" stroke="#1A1530" stroke-width="2.5"/>
+  <circle cx="38" cy="157" r="7" fill="#4D6BFE" stroke="#1A1530" stroke-width="2"/>
+  <text x="52" y="162" font-size="14.5" font-weight="700" fill="#1A1530">JavaScript</text>
+  <text x="52" y="181" font-size="13" fill="#5F5878">42%</text>
+  <circle cx="191.8" cy="157" r="7" fill="#FF5C8A" stroke="#1A1530" stroke-width="2"/>
+  <text x="205.8" y="162" font-size="14.5" font-weight="700" fill="#1A1530">PHP</text>
+  <text x="205.8" y="181" font-size="13" fill="#5F5878">28%</text>
+  <circle cx="345.6" cy="157" r="7" fill="#FFC83D" stroke="#1A1530" stroke-width="2"/>
+  <text x="359.6" y="162" font-size="14.5" font-weight="700" fill="#1A1530">Blade</text>
+  <text x="359.6" y="181" font-size="13" fill="#5F5878">20%</text>
+  <circle cx="499.40000000000003" cy="157" r="7" fill="#2ACF9C" stroke="#1A1530" stroke-width="2"/>
+  <text x="513.4000000000001" y="162" font-size="14.5" font-weight="700" fill="#1A1530">TypeScript</text>
+  <text x="513.4000000000001" y="181" font-size="13" fill="#5F5878">6%</text>
+  <circle cx="653.2" cy="157" r="7" fill="#B79CFF" stroke="#1A1530" stroke-width="2"/>
+  <text x="667.2" y="162" font-size="14.5" font-weight="700" fill="#1A1530">CSS</text>
+  <text x="667.2" y="181" font-size="13" fill="#5F5878">4%</text>
+</svg>
